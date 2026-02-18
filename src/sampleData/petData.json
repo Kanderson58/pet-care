@@ -1,0 +1,32 @@
+[
+    {
+        "name": "Ollie",
+        "species": "cat",
+        "birthday": "2/22/16",
+        "image": "ollie.png"
+    },
+    {
+        "name": "Hodgepodge",
+        "species": "dog",
+        "birthday": "12/24/22",
+        "image": "hodgepodge.png"
+    },
+    {
+        "name": "Oscar",
+        "species": "bearded dragon",
+        "birthday": null,
+        "image": "oscar.png"
+    },
+    {
+        "name": "Vena",
+        "species": "snake",
+        "birthday": "2018",
+        "image": "vena.png"
+    },
+    {
+        "name": "Fish",
+        "species": "fish",
+        "birthday": null,
+        "image": "fish.png"
+    }
+]
