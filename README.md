@@ -5,3 +5,4 @@
 [ ] Error handling
 [ ] Transition sample data to real data
 [ ] Add routes
+[ ] Convert to Typescript
